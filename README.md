@@ -22,6 +22,7 @@ Repository Contents
 
 Dashboard Preview
 ![Dashboard Preview: View the screenshot attached
+<img width="1431" height="853" alt="Screenshot 2026-03-16 at 7 02 56 PM" src="https://github.com/user-attachments/assets/e1ae61eb-2ce7-4618-96f9-2ceae67227f6" />
 
  How to View
 1. Download the `.twbx` file.
